@@ -1,3 +1,3 @@
-Jupyter notebooks used when completing Kaggle's Introduction to Machine Learning micro-course.
+Jupyter notebooks (AKA IPython) used when completing Kaggle's Introduction to Machine Learning micro-course.
 
-See more at https://www.kaggle.com/socd06
+See more at [my Kaggle profile](https://www.kaggle.com/socd06)
